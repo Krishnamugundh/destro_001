@@ -1,0 +1,6 @@
+outs:
+- md5: 05eb1cf0ff690788d3145397f9bd0279.dir
+  size: 1295122
+  nfiles: 3
+  hash: md5
+  path: new_file
