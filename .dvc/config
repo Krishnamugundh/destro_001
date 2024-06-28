@@ -1,4 +1,6 @@
 [core]
-    remote = new_file_remote
+    remote = sec_remote
 ['remote "new_file_remote"']
+    url = gdrive://1CiYNolXT3SVy9-i25OXGMIc5QAU8G5HS
+['remote "sec_remote"']
     url = gdrive://1CiYNolXT3SVy9-i25OXGMIc5QAU8G5HS
