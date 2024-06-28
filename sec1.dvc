@@ -1,0 +1,6 @@
+outs:
+- md5: 248632971c3e8059f6ff8e118339737a.dir
+  size: 177502
+  nfiles: 48
+  hash: md5
+  path: sec1
