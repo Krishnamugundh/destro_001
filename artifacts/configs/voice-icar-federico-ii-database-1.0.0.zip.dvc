@@ -1,0 +1,12 @@
+md5: 6fb80ad3ca2809c3d9bd0a91c9485e80
+frozen: true
+deps:
+- checksum: W/"27a0580d484539192de648083f967417"
+  hash: md5
+  path: 
+    https://github.com/Krishnamugundh/vocal_disease_prediction_app/blob/data/voice-icar-federico-ii-database-1.0.0.zip
+outs:
+- md5: d4d3c1c272b71f571c61beb5d09ed997
+  size: 160040
+  hash: md5
+  path: voice-icar-federico-ii-database-1.0.0.zip
