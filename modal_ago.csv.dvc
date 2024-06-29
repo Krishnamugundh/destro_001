@@ -1,0 +1,5 @@
+outs:
+- md5: 651c099d86c0d77fa0c45e7c6200e931
+  size: 92
+  hash: md5
+  path: modal_ago.csv
