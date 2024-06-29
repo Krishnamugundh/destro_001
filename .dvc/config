@@ -1,9 +1,13 @@
 [core]
-    remote = remote_voice_data
+    remote = remote_voice_data_zipped
     autostage = true
 ['remote "new_file_remote"']
     url = gdrive://1CiYNolXT3SVy9-i25OXGMIc5QAU8G5HS
 ['remote "sec_remote"']
     url = gdrive://1CiYNolXT3SVy9-i25OXGMIc5QAU8G5HS
 ['remote "remote_voice_data"']
+    url = gdrive://1CiYNolXT3SVy9-i25OXGMIc5QAU8G5HS
+['remote "remote_voice_data_zipped"']
+    url = gdrive://1CiYNolXT3SVy9-i25OXGMIc5QAU8G5HS
+['remote "csv_remote"']
     url = gdrive://1CiYNolXT3SVy9-i25OXGMIc5QAU8G5HS
