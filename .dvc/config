@@ -1,9 +1,9 @@
 [core]
-    remote = sec_remote
+    remote = remote_voice_data
     autostage = true
 ['remote "new_file_remote"']
     url = gdrive://1CiYNolXT3SVy9-i25OXGMIc5QAU8G5HS
 ['remote "sec_remote"']
     url = gdrive://1CiYNolXT3SVy9-i25OXGMIc5QAU8G5HS
-['remote "voice_remote"']
+['remote "remote_voice_data"']
     url = gdrive://1CiYNolXT3SVy9-i25OXGMIc5QAU8G5HS
