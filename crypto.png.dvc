@@ -1,0 +1,5 @@
+outs:
+- md5: 05a2b0aa22e0c296cbb77dcfcdb6fe78
+  size: 67227
+  hash: md5
+  path: crypto.png
