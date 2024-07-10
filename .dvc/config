@@ -1,4 +1,9 @@
 [core]
     autostage = true
+    remote = contains_all
 ['remote "final_data"']
     url = gdrive://1aS36GdRH0SvLlAlcZhHBGlu0v87SPvqr
+['remote "png_file"']
+    url = gdrive://1URg6V0m4SAJjw7GHRdJEvYRWoElj7PoM
+['remote "contains_all"']
+    url = gdrive://1uKYvXW4eHxTvej1v156IOnFgVK86TAI1
